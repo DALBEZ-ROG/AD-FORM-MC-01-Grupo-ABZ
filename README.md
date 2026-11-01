@@ -16,9 +16,10 @@ El aporte de cada integrante se puede verificar en el historial de versiones del
 
 ## Mapa conceptual
 
-- **Tablero en Miro (solo lectura):** https://miro.com/app/board/uXjVETS-hgc=/?share_link_id=325945863092
-- **PDF exportado:** [`mapa/mapa-conceptual.pdf`](mapa/mapa-conceptual.pdf)
-- **Archivo fuente:** [`mapa/`](mapa/) (respaldo del tablero o imagen en alta resolución exportada desde Miro)
+- **Tablero en Miro en maxima calidad (solo lectura):** https://miro.com/app/board/uXjVETS-hgc=/?share_link_id=325945863092
+- Nota: Para exportar  el mapa en calidad media y alta se debe adquirir un plan de pago. Por eso la calidad baja en las imagenes. Se recomienda visualizar en el lik directamente.
+- **PDF exportado baja calidad:** [`mapa/mapa-conceptual.pdf`](mapa/mapa-conceptual.pdf)
+- **Archivo fuente baja calidad:** [`mapa/`](mapa/) (respaldo del tablero o imagen en alta resolución exportada desde Miro)
 
 El mapa cubre: tipos de sistemas distribuidos, modelos de comunicación, middleware, transparencia,
 tolerancia a fallos y teorema CAP, con relaciones rotuladas entre conceptos. Además incluye la
