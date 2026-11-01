@@ -8,9 +8,9 @@ Fecha de entrega: 1 de noviembre de 2026
 
 | Integrante | Parte del mapa que construyó en Miro |
 |---|---|
-| Benites Pérez Dariem Alberto | Sistema distribuido (nodo central), Propiedades, Aplicaciones reales y sus relaciones |
-| Apunte NOMBRES | Tipos de SD, Modelos de comunicación, Middleware y sus relaciones |
-| Zambrano NOMBRES | CAP, Tolerancia a fallos, Transparencia, Falacias de Deutsch y sus relaciones |
+| BENITES PÉREZ DARIEM ALBERTO | Sistema distribuido (nodo central), Propiedades, Aplicaciones reales y sus relaciones |
+| APUNTE PAZMIÑO WASHINGTON GERMAN | Tipos de SD, Modelos de comunicación, Middleware y sus relaciones |
+| ZAMBRANO TRIVIÑO LEONEL LEONIDAS | CAP, Tolerancia a fallos, Transparencia, Falacias de Deutsch y sus relaciones |
 
 El aporte de cada integrante se puede verificar en el historial de versiones del tablero de Miro.
 
