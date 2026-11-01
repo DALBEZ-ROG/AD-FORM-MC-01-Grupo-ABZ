@@ -33,7 +33,7 @@ definición de 20 palabras o menos y al menos dos referencias IEEE de los últim
 ├── README.md
 ├── mapa/
 │   ├── mapa-conceptual.pdf      # exportado desde Miro
-│   └── (archivo fuente del mapa)
+│   └── img-mapa-conceptual.png  (archivo fuente del mapa)
 └── caratula/
     ├── caratula.tex             # carátula de una página para el SGA
     └── caratula.pdf
