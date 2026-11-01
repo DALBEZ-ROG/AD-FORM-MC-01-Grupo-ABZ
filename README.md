@@ -16,7 +16,7 @@ El aporte de cada integrante se puede verificar en el historial de versiones del
 
 ## Mapa conceptual
 
-- **Tablero en Miro (solo lectura):** PEGAR_AQUÍ_EL_ENLACE_DE_MIRO
+- **Tablero en Miro (solo lectura):** https://miro.com/app/board/uXjVETS-hgc=/?share_link_id=325945863092
 - **PDF exportado:** [`mapa/mapa-conceptual.pdf`](mapa/mapa-conceptual.pdf)
 - **Archivo fuente:** [`mapa/`](mapa/) (respaldo del tablero o imagen en alta resolución exportada desde Miro)
 
